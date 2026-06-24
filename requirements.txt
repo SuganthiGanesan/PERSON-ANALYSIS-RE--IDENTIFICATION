@@ -1,0 +1,9 @@
+ultralytics==8.2.0
+opencv-python==4.9.0.80
+mediapipe==0.10.11
+numpy==1.26.4
+scikit-learn==1.4.2
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow==10.3.0
+scipy==1.13.0
